@@ -1,0 +1,27 @@
+# Product (private)
+applications/
+agora/
+docs/agora-intelligence-layer.md
+
+# Copyrighted content
+inbox/*.pdf
+
+# External repos
+tmp/
+
+# Claude Code internal state
+.claude/
+
+# Node.js
+node_modules/
+dist/
+
+# Environment and secrets
+.env*
+
+# Build artifacts
+*.tar.gz
+
+# Agora app components (if loose)
+agora-landing.jsx
+seeking-sequence.jsx
