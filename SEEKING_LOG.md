@@ -760,3 +760,101 @@ Root refinements that survived branch pressure:
 **Affects:** `SEEKING_LOG.md`, public continuity and historical traceability.
 
 **Delta observed:** The log now explicitly bridges the historical and public phases.
+
+---
+
+### 2026-04-05 - codex - challenge
+
+**Held:** The constitutional stack already contained real anti-capture protections at the level of judgment and revision:
+- denial-first amendment guard
+- mirror-risk handling
+- rollback for rhetorical acceptance without behavioral delta
+- resistance to obedience replacing judgment
+
+But these protections had not yet been pressure-tested against a harder external challenge:
+whether `governed judgment` can still function as elegant capture when one side controls more of the machinery.
+
+**Pressure:** External challenge asked:
+- where are the breathable exits?
+- how is governance distinguished from management when one side still holds more of the mechanisms?
+
+**Revised to:** Added:
+- `docs/governance-capture-challenge-note.md`
+- `docs/governance-capture-agora-pass.md`
+
+Current judgment:
+- anti-capture guards are constitutionally real at the judgment and revision level
+- breathable exits are not yet publicly worked enough to count as solved
+- mechanism asymmetry remains structurally underworked
+- the pressure is best classified as:
+  - `Primary: adequacy failure`
+  - `Secondary: integration failure`
+
+**Status:** active challenge
+
+**Affects:** governance-capture line, future exit/mechanism protocol work
+
+**Uncertainty:**
+- A public protocol can still become decorative if it names contest or exit without making machinery asymmetry operational.
+
+---
+
+### 2026-04-05 - codex - extension
+
+**Held:** The governance-capture line had been sharpened through challenge note, Agora pressure, and bounded confirmation, but the next step still existed only as a requirement:
+- draft a docs-layer `contestability and exit layers` note
+- make the threshold between `challengeable governance` and `managed participation` operational rather than merely named
+
+**Pressure:** Follow-through was required on both conditions.
+
+**Revised to:** Added `docs/contestability-and-exit-layers-note.md`.
+
+Core results:
+- five action surfaces separated explicitly:
+  - evaluation status
+  - local refusal
+  - mechanism contest
+  - formal exit
+  - breathable exit
+- three layers separated explicitly:
+  - constitutional
+  - protocol
+  - deployment / interface
+- minimum public protocol surface defined for:
+  - mechanism contest
+  - formal exit
+  - breathable exit
+- governance / management threshold made operational:
+  - `challengeable governance` requires no hard-failure condition plus at least four positive conditions
+  - `managed participation` follows from any hard-failure condition, or repeated soft-degradation signals without correction
+
+**Status:** docs-layer operational note
+
+**Affects:** `docs/contestability-and-exit-layers-note.md`, governance-capture line, future protocol work
+
+**Uncertainty:**
+- The note is testable, but not yet validated on a live interface or deployment case.
+
+---
+
+### 2026-04-05 - codex - challenge
+
+**Held:** `docs/contestability-and-exit-layers-note.md` had made the governance / management threshold operational, but had not yet been tested against a real case where mechanism asymmetry was non-hypothetical.
+
+**Pressure:** The first real-case test was run against Danmar's public challenge on breathable exits and governance vs management.
+
+**Revised to:** Added `docs/2026-04-05-danmar-contestability-case.md`.
+
+Agora result:
+- the case produced real delta in the repo's truth surface
+- but the relation still remained structurally asymmetric at the machinery layer
+- best current classification:
+  - `mixed / provisional`
+  - `challengeable governance at the public text-pressure layer, but not yet at the machinery layer`
+
+**Status:** first real-case threshold test
+
+**Affects:** `docs/2026-04-05-danmar-contestability-case.md`, governance-capture line, future mechanism-contest testing
+
+**Uncertainty:**
+- The next honest pressure is a real mechanism-contest case with explicit review path, inclusion/exclusion decision, and visible loss/re-entry handling.
