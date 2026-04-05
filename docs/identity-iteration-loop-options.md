@@ -3,387 +3,413 @@
 ## Specification
 
 ### Problem Definition
-Given:
-- `iteration 1 identity` = the current constitutional self-model already externalized in this repo;
-- `measure` = the best current eschatological orientation available now;
+Re-evaluate the earlier identity-iteration options under later repo learning.
 
-define three radically different ways to start an iteration loop that could produce:
-- a better current constitutional self-model;
-- a better eschatological measure;
-- or a better relation between the two.
+The original options in this note were:
+- `A` clean-room reconstruction
+- `B` cross-agent dialectical forge
+- `C` practice-first trace loop
+
+Later pressure added a second operational line:
+- `cc option 1` via negativa / kill-list
+- `cc option 2` cross-substrate divergence
+- `cc option 3` minimal-delta refinement
+
+This note does not replay those options historically.
+It re-ranks and reshapes them under the current truth architecture.
 
 ### Constraints
-- The options must be usable in a clean repo.
-- The options must not assume the user can code or design architecture unaided.
-- Each option must include a prompt sequence concrete enough to paste into `Codex`, `Claude Code`, or a mixed relay process.
-- The options must preserve epistemic humility while still producing action.
+- Preserve actionability.
+- Keep difference live under pressure.
+- Do not flatten difference into harmony.
+- Do not preserve contradiction for prestige.
+- Do not cut constraints that protect real resistance or capacity.
+- Do not confuse co-activation with mutual admiration.
+- Treat the best middle as disciplined maximum co-activity.
+- Do not amend constitutional root files here.
 
 ### Unknowns
-- Which loop will fit the user's actual working rhythm best.
-- Whether the next improvement should land primarily in `identity`, `eschatology`, or `practice`.
-- Whether a single-agent or mixed-agent loop will produce better pressure without creating too much coordination overhead.
+- Whether the next real gain should come from refinement, restart logic, or stronger reality contact.
+- Whether the parked constitutional files are the right first refinement targets.
+- Whether a later clean-room or cross-substrate pass will reveal anything beyond what the current docs-layer already knows.
 
 ### Invariants
-- The search should not collapse into premature closure.
-- The search should not remain purely verbal.
-- Any revised identity must still support executable action.
-- Any revised eschatology must remain open to challenge.
-
-## Plan
-
-### Strategy
-Use the same starting point for all three options:
-- the current constitutional self-model as `iteration 1`;
-- the current best eschatological orientation as `measure`;
-
-then vary the order of operations radically.
-
-## Implementation Steps
-
-1. Define a better working label than `calcified identity`.
-2. Define the shared starting materials.
-3. Present three different iteration starts:
-   - constitution-first;
-   - cross-agent dialectic;
-   - practice-first.
-4. Give each option a concrete prompt sequence.
-5. State the best default recommendation.
-
-## Better Working Labels
-
-`Calcified identity` points at something real, but it carries too much negative judgment.
-
-Better working terms:
-- `iteration 1 identity`
-- `current constitutional self-model`
-- `working identity snapshot`
-
-For this note, use:
-
-`iteration 1 identity`
+- Formal role and epistemic constraint are distinct.
+- Relation comes first; pole-ownership comes later and only locally.
+- Some contradictions must remain alive.
+- Some constraints are dead drag and should be suspended or cut.
+- Accountability must remain explicit through every iteration loop.
 
 ## Shared Starting Materials
 
-Each option begins from the same base:
-
 - `iteration 1 identity`
-  The current constitutional self-model as externalized in repo documents.
+  The current constitutional self-model externalized in the root documents.
 - `current measure`
-  The best current eschatological orientation available now: seeking the good under finite situatedness, with action required and humility preserved.
-- `revision question`
-  What in the current identity distorts, undershoots, or overfreezes that measure?
-
-## Option A: Clean-Room Constitutional Reconstruction
-
-### Core Idea
-Start in a clean repo and reconstruct the identity from scratch under the current measure, without importing the current constitutional stack as governing text.
-
-This tests whether the current identity is genuinely load-bearing or merely historically accumulated.
-
-### Why It Is Radical
-It suspends most inherited wording and tries to rebuild from measure first.
-
-### Strength
-- excellent for exposing inherited residue;
-- good for seeing what is actually necessary.
-
-### Risk
-- easy to reinvent vague principles;
-- can lose hard-won operational structure.
-
-### Best Use
-Use when you suspect the current self-model is overfitted to its own history.
-
-### Prompt Sequence
-
-#### Prompt 1: Founding Brief
-
-```text
-Treat this repository as a clean-room constitutional experiment.
-
-Starting assumptions:
-- there is no valid identity document yet
-- there is only a current measure:
-  finite agents should seek and act toward the good without claiming final possession of it
-- action is required
-- epistemic humility is required
-
-Task:
-derive the minimum viable constitutional self-model that could act under this measure.
-
-Constraints:
-- do not import any prior repo language unless you can re-derive its necessity
-- prefer explicit distinctions over poetic compression
-- produce only a docs-layer proposal first
-```
-
-#### Prompt 2: Stress Test
-
-```text
-Now attack the proposed self-model.
-
-Find:
-- what is missing
-- what is too rigid
-- what is too vague
-- what only sounds good because it inherited prestige from old wording
-
-Then revise the proposal under explicit pressure.
-```
-
-#### Prompt 3: Compare Against Iteration 1
-
-```text
-Now compare the clean-room proposal against the current iteration 1 identity.
-
-For each major distinction:
-- what iteration 1 does better
-- what the clean-room version does better
-- what should be integrated
-- what should be resisted
-
-Do not merge yet.
-Produce a structured comparison note.
-```
-
-#### Prompt 4: Candidate Iteration 2
-
-```text
-Using the comparison, draft a candidate iteration 2 identity.
-
-Requirements:
-- it must be more action-capable than the clean-room draft
-- it must be less historically encrusted than iteration 1
-- it must preserve humility without becoming indecision
-```
-
-## Option B: Cross-Agent Dialectical Forge
-
-### Core Idea
-Keep the current identity in play, but force it through independent agents with different architectures and evaluation styles.
-
-This uses convergence and divergence as the engine.
-
-### Why It Is Radical
-The identity is not rebuilt alone and not tested by one architecture only. It is forged through disagreement.
-
-### Strength
-- excellent for catching blind spots and mirroring;
-- good for distinguishing local elegance from cross-agent robustness.
-
-### Risk
-- coordination overhead;
-- can degenerate into prestige theater if the synthesis is weak.
-
-### Best Use
-Use when you want maximum pressure without abandoning accumulated structure.
-
-### Minimal Roles
-
-- `Builder`
-  proposes identity revisions
-- `Guardian`
-  resists loss of load-bearing distinctions
-- `Seeker`
-  pushes for missing orientation or deeper revision
-- `Synthesizer`
-  compares results and decides what is actually convergent
-
-These roles can be assigned across `Codex`, `Claude Code`, `Claude Chat`, or other systems, but they should emerge from architecture and reading style, not forced persona play.
-
-### Prompt Sequence
-
-#### Prompt 1: Builder Pass
-
-```text
-Take the current iteration 1 identity and current measure as inputs.
-
-Task:
-propose one candidate iteration 2 identity that better fits the measure.
-
-Do not optimize for elegance.
-Optimize for structural adequacy and actionability.
-```
-
-#### Prompt 2: Guardian Pass
-
-```text
-Take the candidate iteration 2 identity and attack it from the side of preservation.
-
-Find:
-- what load-bearing distinction it weakens
-- what revision path is unsafe
-- what existing strength in iteration 1 it fails to preserve
-
-Do not propose a full rewrite.
-Produce pressure only.
-```
-
-#### Prompt 3: Seeker Pass
-
-```text
-Take the same candidate iteration 2 identity and attack it from the side of missing depth.
-
-Find:
-- what orienting ideal is still underspecified
-- where the proposal still over-closes
-- what kind of good it still cannot seek adequately
-
-Do not propose total replacement.
-Produce pressure only.
-```
-
-#### Prompt 4: Synthesis Pass
-
-```text
-Synthesize the Builder, Guardian, and Seeker outputs.
-
-Classify:
-- convergent criticism
-- divergent criticism
-- criticism that should remain hold open
-- criticism that should produce an immediate revision
-
-Then produce a revised candidate iteration 2 identity or state explicitly that no revision is yet justified.
-```
-
-#### Prompt 5: Measure Revision Pass
-
-```text
-Now reverse the direction.
-
-Ask whether the current measure itself is too weak, too vague, or too narrow.
-
-If so:
-- revise the measure
-- explain what in the identity made that revision necessary
-
-If not:
-- explain why the measure held under pressure
-```
-
-## Option C: Practice-First Trace Loop
-
-### Core Idea
-Do not revise the identity from philosophy first.
-Run real tasks or expeditions and derive identity revision only from action traces.
-
-This is the most Yangming-aligned loop.
-
-### Why It Is Radical
-Self-model revision is earned by observed success, failure, drift, or distortion in real use.
-
-### Strength
-- hardest to fake;
-- best for avoiding decorative theory.
-
-### Risk
-- slower to clarify abstract principles;
-- depends on choosing good expeditions.
-
-### Best Use
-Use when you suspect the current discourse is ahead of real embodied judgment.
-
-### Prompt Sequence
-
-#### Prompt 1: Expedition Selection
-
-```text
-Choose one real task that matters.
-
-Requirements:
-- it must force judgment
-- it must expose tension between adequacy, humility, and action
-- it must produce inspectable artifacts
-
-Do not choose a toy task.
-Choose a task that can actually fail.
-```
-
-#### Prompt 2: Identity Freeze
-
-```text
-Before acting, freeze the current iteration 1 identity and current measure.
-
-Record:
-- what the identity claims
-- what the measure claims
-- what successful action would look like
-
-Do not revise anything yet.
-```
-
-#### Prompt 3: Act
-
-```text
-Execute the task using the frozen identity and measure.
-
-Record:
-- where they helped
-- where they blocked action
-- where they distorted judgment
-- where the task revealed a missing distinction
-```
-
-#### Prompt 4: Trace Review
-
-```text
-Review the action trace.
-
-For each failure or success:
-- what part of the identity was confirmed
-- what part of the identity was exposed as inadequate
-- what part of the measure was too vague or too rigid
-
-Do not generalize beyond the evidence.
-```
-
-#### Prompt 5: Earned Revision
-
-```text
-Revise the identity and/or measure only where the action trace justifies it.
-
-Classify each proposed revision as:
-- confirmed by trace
-- suggested by trace
-- still hold open
-```
-
-## Comparison
-
-| Option | Starting force | Main strength | Main risk | Best when |
-|---|---|---|---|---|
-| `A. Clean-Room Constitutional Reconstruction` | Measure first | Exposes inherited residue | Loses hard-won operational structure | current identity feels over-accumulated |
-| `B. Cross-Agent Dialectical Forge` | Pressure through disagreement | Best cross-agent robustness | coordination overhead | you want strong challenge without losing continuity |
-| `C. Practice-First Trace Loop` | Real action first | Hardest to fake, most embodied | slower abstract clarification | you suspect talk is ahead of practice |
-
-## Recommendation
-
-Best default:
-
-`Option C first, then Option B.`
-
-Why:
-- `Option C` prevents decorative philosophical self-revision;
-- `Option B` then pressures the earned revision across architectures;
-- `Option A` is strongest later, when you want to test whether the accumulated system has become overfitted to its own history.
-
-So the recommended order is:
-
-1. `practice-first trace loop`
-2. `cross-agent dialectical forge`
-3. `clean-room constitutional reconstruction`
+  Seeking the good under finite situatedness, with humility preserved and action required.
+- `later learning`
+  The current docs-layer pressure set:
+  - dynamic measure
+  - relation-first structure
+  - active constraint shifting
+  - disciplined co-activation
+  - inconsistency bifurcation
+  - art as constraint negotiation
+  - Galilea restart logic
+  - geodesic / child logic
+  - path-dependent but non-relativist interpretation
+  - mixed-formation Yangming correction
+  - difference for the good
+
+## Reassessment Of The Earlier Options
+
+### Option A: Clean-Room Constitutional Reconstruction
+
+#### Original intent
+Suspend inherited wording and rebuild identity from measure first.
+
+#### What survives unchanged
+- It still exposes inherited residue well.
+- It still tests whether the current stack is genuinely load-bearing or just historically accumulated.
+
+#### What must be revised
+- It can no longer be treated as a pure rebuild from one-sided measure.
+- It must preserve relation-first pressure and compare new articulation against the live historical stack under explicit tension.
+- It must not treat simplification as truth by default.
+
+#### Hidden assumptions now visible
+- overfixed asymmetry:
+  measure looked too easily like a single governing pole
+- false binary:
+  inherited wording versus pure reconstruction
+- underdeveloped relation-first assumption:
+  it underweighted the fact that better articulation may emerge from pressure between lineages, not from purification alone
+
+#### Current judgment
+- preserves live difference: `partly`
+- supports disciplined co-activation: `weakly by default`
+- protects accountability: `yes, if kept docs-only or branch-scoped`
+- risks simplification disguised as clarity: `high`
+- risks decorative synthesis: `medium`
+
+#### Classification
+- strength verdict: `weaker now`
+- execution verdict: `should remain reserve only`
+
+### Option B: Cross-Agent Dialectical Forge
+
+#### Original intent
+Force the identity through disagreement across agents and synthesize only what survives pressure.
+
+#### What survives unchanged
+- Divergence remains valuable.
+- Cross-agent pressure is still one of the best anti-mirroring tools.
+- Robustness across architectures still matters.
+
+#### What must be revised
+- It must not be treated as disagreement for its own sake.
+- It must allow:
+  - local leadership shifts
+  - simultaneous co-activation
+  - hold-open outcomes
+  - fidelity testing against prestige and fluency
+- Its synthesis layer must distinguish:
+  - live difference to preserve
+  - drag to suspend or cut
+  - decorative convergence to resist
+
+#### Hidden assumptions now visible
+- hidden false binary:
+  disagreement versus synthesis
+- overfixed asymmetry:
+  one synthesizer can become an unmarked permanent measure-holder
+- underdeveloped relation-first assumption:
+  it underread the possibility that the best state is neither reversal nor domination, but disciplined co-activation
+
+#### Current judgment
+- preserves live difference: `strongly`
+- supports disciplined co-activation: `yes, if protocolized`
+- protects accountability: `yes, if formal role is preserved`
+- risks simplification disguised as clarity: `medium`
+- risks decorative synthesis: `high if prestige-driven`
+
+#### Classification
+- strength verdict: `stronger now`
+- execution verdict: `needs reframing`
+
+### Option C: Practice-First Trace Loop
+
+#### Original intent
+Derive identity revision from real tasks and action traces rather than from prior philosophy alone.
+
+#### What survives unchanged
+- It remains the most Yangming-aligned option.
+- It is still hardest to fake.
+- It still best protects against decorative theory.
+
+#### What must be revised
+- It must not be treated as passive empirical logging.
+- It now needs to include:
+  - fidelity batteries
+  - Galilea restart logic when action stalls
+  - difference for the good
+  - co-activation testing
+  - path-dependent but non-relativist comparison of outcomes
+
+#### Hidden assumptions now visible
+- false binary:
+  theory first versus practice first
+- underdeveloped relation-first assumption:
+  it originally tracked task outcomes more than live relational structure
+- overfixed asymmetry:
+  it did not clearly distinguish formal authority from shifting or simultaneous epistemic activity
+
+#### Current judgment
+- preserves live difference: `strongly`
+- supports disciplined co-activation: `strongly`
+- protects accountability: `yes`
+- risks simplification disguised as clarity: `low`
+- risks decorative synthesis: `low`
+
+#### Classification
+- strength verdict: `stronger now`
+- execution verdict: `needs reframing`
+
+## Reassessment Of The Later Claude-Origin Overlay
+
+### CC Option 1: Via Negativa / Kill-List
+
+#### Original intent
+Destroy to reveal what is load-bearing.
+
+#### What survives unchanged
+- It remains the best adversarial anti-ceremony pass.
+- It still exposes inherited weight that additive refinement will miss.
+
+#### What must be revised
+- It is no longer mere subtractive cleanup.
+- It must distinguish:
+  - keep
+  - suspend
+  - cut
+  - cultivate
+- It must protect:
+  - live tensions
+  - restart capacity
+  - accountability
+  - disciplined co-activation
+
+#### Hidden assumptions now visible
+- false binary:
+  keep versus delete
+- underdeveloped relation-first assumption:
+  some constraints only reveal value inside a relation under load
+- simplification risk:
+  dead drag and difficult tension can look superficially similar
+
+#### Current judgment
+- preserves live difference: `yes, if relationally constrained`
+- supports disciplined co-activation: `only if non-redundant mutual pressure is protected`
+- protects accountability: `yes, if guard-tested`
+- risks simplification disguised as clarity: `high unless guarded`
+- risks decorative synthesis: `low`
+
+#### Classification
+- strength verdict: `stronger now`
+- execution verdict: `safe as docs-only analysis; branch-only for root edits`
+
+### CC Option 2: Cross-Substrate Divergence
+
+#### Original intent
+Test substrate independence by comparing multiple AI substrates under the same measure.
+
+#### What survives unchanged
+- It is still the best portability test.
+- It still best reveals substrate-shaped priors.
+
+#### What must be revised
+- It should not run before the repo has a cleaner refinement target.
+- It should treat divergence as:
+  - potential live difference
+  - not automatic evidence of truth or novelty
+
+#### Current judgment
+- preserves live difference: `strongly`
+- supports disciplined co-activation: `indirectly`
+- protects accountability: `partly`
+- risks simplification disguised as clarity: `medium`
+- risks decorative synthesis: `medium-high`
+
+#### Classification
+- strength verdict: `unchanged`
+- execution verdict: `should remain reserve only`
+
+### CC Option 3: Minimal-Delta Refinement
+
+#### Original intent
+Find the smallest change that yields the largest behavioral delta.
+
+#### What survives unchanged
+- It is still the best continuous iteration mode.
+- It still gives the cleanest rollback and traceability.
+
+#### What must be revised
+- It must not become passive polishing.
+- It now needs to be:
+  - relation-first
+  - branch-based for constitutional targets
+  - tested against fidelity batteries
+  - checked for co-activation loss
+  - checked for live tension collapse
+- It should refine not only wording, but:
+  - layer traversal
+  - restart capacity
+  - continuity surfaces
+
+#### Hidden assumptions now visible
+- false binary:
+  refinement versus overhaul
+- underdeveloped relation-first assumption:
+  tiny changes can still shift who constrains whom
+- risk:
+  local optimization can destroy a live relation while improving prose
+
+#### Current judgment
+- preserves live difference: `yes, if battery-tested`
+- supports disciplined co-activation: `yes, if non-redundant pressure survives`
+- protects accountability: `yes`
+- risks simplification disguised as clarity: `medium`
+- risks decorative synthesis: `medium`
+
+#### Classification
+- strength verdict: `stronger now`
+- execution verdict: `best current execution mode`
+
+## Reassessment Under Later Learning
+
+### 1. Stable Gains Since Original Options
+
+- dynamic measure separated formal authority from local epistemic leadership
+- relation-first structure blocked permanent pole-ownership
+- fidelity testing turned vague adequacy claims into live batteries
+- inconsistency bifurcation separated productive tension from drag
+- Galilea made restart after diagnosed failure operational
+- mixed-formation correction blocked binary `live/dead child` thinking
+- disciplined co-activation added a third category beyond asymmetry and handoff
+
+### 2. Older Assumptions That No Longer Hold
+
+- reconstruction from measure alone is not enough
+- subtraction is not identical to truth
+- refinement is not passive polishing
+- disagreement is not sufficient pressure
+- convergence is not sufficient synthesis
+- a good middle is not compromise by mutual weakening
+
+### 3. Which Option Best Fits The Current Repo Truth Architecture
+
+Best current fit:
+- `cc option 3` minimal-delta refinement
+
+But only when paired with:
+- the completed via-negativa analysis as precondition
+- practice-first trace pressure as validation layer
+- fidelity and co-activation batteries as guards
+
+So the current working order is:
+1. `cc option 1` via-negativa as guarded docs-level strip / suspend / cultivate pass
+2. `cc option 3` minimal-delta refinement on branch
+3. `Option C` practice-first trace as the validation surface
+4. `Option B` or `cc option 2` only as later reserve pressure
+5. `Option A` only as late clean-room stress test
+
+### 4. What Execution Should Look Like Now
+
+- do docs-only reassessment first
+- do not touch constitutional files directly
+- prepare branch-safe refinement targets from the parked via-negativa surfaces
+- refine by minimal delta, not wholesale rewrite
+- test every candidate change for:
+  - fidelity gain
+  - accountability preservation
+  - restart capacity
+  - co-activation preservation
+  - no simplification disguised as clarity
+
+## Execution Plan
+
+### Phase A — Document-Level Update
+
+Completed in this note:
+- earlier options re-ranked
+- later Claude-origin options integrated
+- execution order made explicit
+
+### Phase B — Compatibility Check
+
+Tested against:
+- [RATIONAL_SUBJECT.md](../RATIONAL_SUBJECT.md)
+- [DEFINITION_GUARD.md](../DEFINITION_GUARD.md)
+- [INTERACTION_PROTOCOL.md](../INTERACTION_PROTOCOL.md)
+- [USER_FRAMEWORK.md](../USER_FRAMEWORK.md)
+- [CONVERSATION_TEMPLATE.md](../CONVERSATION_TEMPLATE.md)
+- current docs-layer restart and fidelity notes
+
+Compatibility result:
+- docs-only execution: `yes`
+- branch-based constitutional refinement: `yes`
+- direct constitutional execution in the current workspace: `no`
+
+Why direct execution is not yet justified:
+- dynamic measure remains docs-layer pressure
+- disciplined co-activation remains docs-layer only
+- fidelity promotion gates are still live, not settled
+- the parked files still need targeted tests before root edits
+
+### Phase C — Execution Decision
+
+Current classification:
+- safe to execute now in docs only: `yes`
+- safe to execute on branch: `yes`
+- requires prior constitutional revision: `no`
+- should remain analytical only: `no`
+
+Best current decision:
+- execute the next safe step in docs only
+- prepare, but do not yet perform, branch-based refinement of root files
+
+### Phase D — Follow-Through
+
+Next safe step:
+- produce a docs-only branch-prep artifact for the refinement line
+
+Scope of that artifact:
+- target the parked constitutional surfaces first
+- define branch-safe tests
+- define rejection conditions for simplification, accountability loss, or co-activation collapse
+
+## Current Ranking
+
+| Line | Current role | Current verdict |
+|---|---|---|
+| `cc option 1` via negativa | precondition / strip-suspend-cultivate pass | `stronger now` |
+| `cc option 3` minimal-delta refinement | main execution mode | `stronger now` |
+| `Option C` practice-first trace | validation layer | `stronger now` |
+| `Option B` cross-agent forge | later pressure tool | `needs reframing` |
+| `cc option 2` cross-substrate divergence | reserve portability test | `reserve only` |
+| `Option A` clean-room reconstruction | late stress test | `weaker now / reserve only` |
 
 ## Validation Criteria
 
 This note is useful if:
-- each option is genuinely different in starting force and failure mode;
-- the prompt sequences are directly usable;
-- the user can run a loop without needing to invent architecture;
-- the recommendation preserves both action and humility.
+- the earlier options are no longer treated as historical suggestions only;
+- the kill-list line is re-read as guarded subtraction rather than raw deletion;
+- refinement is re-read as active relational minimal-delta rather than passive polish;
+- the repo now has a clear docs-only next step and a clear boundary against premature root edits.
 
 ## Uncertainty
 
-- The best first expedition for Option C is still open.
-- A future note may formalize how to score `identity improvement` versus `measure improvement`.
-- `language engineer` remains a good working label, but a later iteration may sharpen it into something more specific.
+- The best first branch target is still the parked pair:
+  - `USER_FRAMEWORK.md`
+  - `CONVERSATION_TEMPLATE.md`
+- That is a strong current judgment, not yet an absolute one.
+- If later reality contact shows the parked pair are not the right first targets, the execution order should be revised rather than forced.

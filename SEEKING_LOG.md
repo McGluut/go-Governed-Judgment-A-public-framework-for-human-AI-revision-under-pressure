@@ -466,13 +466,13 @@ Skipped:
 
 ### 2026-04-03 - codex - revision
 
-**Held:** `applications/agora/agora` was a fast prototype application whose governance layer depended too heavily on feeding raw constitutional documents into prompts and whose export path wrote only standalone JSON, leaving deliberation output structurally separate from the shared repo log.
+**Held:** A fast prototype application existed whose governance layer depended too heavily on feeding raw constitutional documents into prompts and whose export path wrote only standalone JSON, leaving deliberation output structurally separate from the shared repo log.
 
 **Pressure:** User approved alignment of the Agora prototype to the current repo constitution under the rule that the application must adapt to the constitutional stack, not the reverse. External pressure from `ccc` sharpened the concrete targets: encode actual evaluation machinery rather than document-name references, and produce a `SEEKING_LOG.md`-compatible export path.
 
 **Revised to:** Hardened the Agora application layer without modifying any constitutional root document except this continuity log entry.
 
-- Governance prompt logic was extracted into `applications/agora/agora/src/agoraLogic.mjs`.
+- Governance prompt logic was extracted into the application layer.
 - The app now encodes:
   - evaluation order from `INTERACTION_PROTOCOL.md`
   - amendment test from `DEFINITION_GUARD.md`
@@ -487,7 +487,7 @@ Skipped:
 
 **Status:** provisional
 
-**Affects:** `applications/agora/agora/src/agoraLogic.mjs`, `applications/agora/agora/src/Agora.jsx`, `applications/agora/agora/test/agoraLogic.test.mjs`, `applications/agora/agora/package.json`, `applications/agora/agora/README.md`, `applications/agora/agora/package-lock.json`
+**Affects:** private application-layer implementation, tests, and documentation
 
 **Uncertainty:**
 - The governance behavior is now structurally aligned, but the live model behavior of the deliberation loop still needs real-use evaluation under actual questions.
@@ -650,3 +650,59 @@ This keeps the correction in docs-layer form first rather than promoting it prem
 **Uncertainty:**
 - The revised defaults are strong enough to guide wild repos, but not yet proven enough for constitutional promotion.
 - The question of whether `Purpose Primacy` and the revised partnership principle should later enter the root layer remains open.
+
+---
+
+### 2026-04-05 - codex - refinement line and public-safe promotion
+
+**Held:** The earlier iteration options had become stale relative to later repo learning. Two parked constitutional files also remained unresolved:
+- `CONVERSATION_TEMPLATE.md`
+- `USER_FRAMEWORK.md`
+
+**Pressure:** Later learning added:
+- dynamic measure
+- relation-first structure
+- fidelity testing
+- disciplined co-activation
+- guarded via-negativa
+
+The question was no longer which abstract option sounded best, but which execution path survived that later pressure and what should actually change in the root.
+
+**Revised to:** Re-ranked the iteration options and promoted a public-safe subset of the later learning into the repo.
+
+- `cc option 1` via negativa remains the guarded precondition
+- `cc option 3` minimal-delta refinement became the best current execution mode
+- `Option C` practice-first trace remains the validation surface
+- `Option B` and `cc option 2` remain reserve pressure
+- `Option A` remains a late stress test, not the default
+
+Public-safe additions and updates:
+- `docs/identity-iteration-loop-options.md`
+- `docs/dynamic-measure-note.md`
+- `docs/fidelity-to-situation-live-protocol.md`
+- `docs/disciplined-co-activation-note.md`
+- `docs/2026-04-05-via-negativa-pass-1-kill-list.md`
+- `docs/2026-04-05-refinement-line-prep.md`
+- `docs/2026-04-05-conversation-template-branch-test.md`
+- `docs/2026-04-05-user-framework-branch-test.md`
+
+Root refinements that survived branch pressure:
+- `CONVERSATION_TEMPLATE.md`
+  - kept in the constitutional root
+  - strengthened restart with:
+    - live tension preservation
+    - temporary suspension for re-entry
+    - one next step
+    - one review point
+- `USER_FRAMEWORK.md`
+  - kept in the constitutional root
+  - clarified as the durable user-side continuity surface
+  - not the whole active guidance field
+
+**Status:** active, public-safe
+
+**Affects:** `CONVERSATION_TEMPLATE.md`, `USER_FRAMEWORK.md`, supporting docs named above
+
+**Uncertainty:**
+- The next honest pressure is no longer the parked pair.
+- It is whether the same fidelity and co-activation structure survives outside the broader local architecture and vocabulary.
