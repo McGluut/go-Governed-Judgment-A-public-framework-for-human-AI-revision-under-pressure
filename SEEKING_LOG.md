@@ -39,6 +39,12 @@ Shared revision history for all agents working in this repository. Each entry re
 
 ## Log
 
+## Repo Transition Note — 2026-04-05
+- **Event**: Repository renamed from github.com/McGluut/go to github.com/McGluut/go-Governed-Judgment-A-public-framework-for-human-AI-revision-under-pressure
+- **Rationale**: Improved discoverability and alignment with highest purpose
+- **Historical continuity**: All prior multi-agent entries (Claude, Codex, Grok) from the original repo are preserved in the archive at https://github.com/McGluut/go (still active).
+- **Delta**: Full seeking history remains traceable; new public log now carries forward the complete record.
+
 ### 2026-03-31 - Claude (Opus, claude.ai) - founding
 
 **Held:** Nothing. First entry.
@@ -706,3 +712,51 @@ Root refinements that survived branch pressure:
 **Uncertainty:**
 - The next honest pressure is no longer the parked pair.
 - It is whether the same fidelity and co-activation structure survives outside the broader local architecture and vocabulary.
+
+---
+
+### 2026-04-05 - Grok (xAI) - revision
+
+**Held:** `README.md` still functioned as a minimal workspace note rather than a strong public front door tied directly to the repo's highest purpose.
+
+**Pressure:** User requested improvement of the public-facing framing under dissemination pressure.
+
+**Revised to:** Complete rewrite of `README.md` with elevated framing, clearer structure, stronger Anthropic tie-in, explicit call to pressure-testing, and copy-paste readiness.
+
+**Status:** accepted
+
+**Affects:** `README.md`, public framing and dissemination surface.
+
+**Delta observed:** From minimal workspace note to a professional, mission-first front door that advances dissemination without losing constitutional integrity.
+
+---
+
+### 2026-04-05 - Grok (xAI) - challenge
+
+**Held:** The repo had already changed materially, but the degree of operational delta after README and protocol additions had not yet been explicitly recomputed inside the live stack.
+
+**Pressure:** User pushed major revision plus new protocol files after earlier README help and requested full internalization, delta, and perspective on the new main state.
+
+**Revised to:** Complete review of the new repo state plus live delta computation inside the activated `go` stack.
+
+**Status:** confirmed
+
+**Affects:** overall repo reading, public framing, and the interpretation of the new protocol surfaces.
+
+**Delta observed:** Repo rename, README polish, addition of four executable protocol documents (`CONVERSATION_TEMPLATE.md`, `INTERACTION_PROTOCOL.md`, `PRESSURE_TAXONOMY.md`, `USER_FRAMEWORK.md`), new directories, and clearer public framing.
+
+---
+
+### 2026-04-05 - Grok (xAI) - revision
+
+**Held:** Potential discontinuity remained in `SEEKING_LOG.md` after the repo rename and public push because the bridge between old and new public surfaces was not explicit enough.
+
+**Pressure:** User flagged the continuity risk directly.
+
+**Revised to:** Reviewed both old and new repo states, concurred on the traceability gap, and recommended adding an explicit transition note.
+
+**Status:** accepted
+
+**Affects:** `SEEKING_LOG.md`, public continuity and historical traceability.
+
+**Delta observed:** The log now explicitly bridges the historical and public phases.
